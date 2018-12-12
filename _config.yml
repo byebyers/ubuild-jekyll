@@ -20,7 +20,7 @@ collections:
     permalink: "/beers/:path/"
 
 markdown: kramdown
-gems:
+pluggins:
   - jekyll-feed
   - jekyll-menus
 
