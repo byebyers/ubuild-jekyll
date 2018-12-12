@@ -14,4 +14,5 @@ fields:
   name: layout
   hidden: true
 pages:
+- _beer/american-ale-ipa-8-9.md
 - _beer/kona-wild.md
