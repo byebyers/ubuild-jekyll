@@ -24,7 +24,7 @@ page_sections:
     url: "/beers"
     button_text: Check out our beer!
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2018/12/12/44d475c44c37f75181f6e7bccc08fe6e.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/12/12/Webpage-draft-2.jpg"
 - template: content-feature
