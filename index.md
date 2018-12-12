@@ -17,7 +17,7 @@ page_sections:
     link_text: Find Us
 - template: hero-banner-w-image
   block: hero-2
-  headline: We make great<br><strong>Beer</strong>
+  headline: Local Beer<br><strong>Company</strong>
   content: Est 2018
   cta:
     enabled: true
