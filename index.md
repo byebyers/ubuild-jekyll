@@ -26,7 +26,7 @@ page_sections:
   image:
     image: "/uploads/2018/12/12/44d475c44c37f75181f6e7bccc08fe6e.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/12/12/Webpage-draft-2.jpg"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
