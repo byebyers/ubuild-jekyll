@@ -1,15 +1,15 @@
 ---
 label: Beer
 hide_body: false
-is_partial: false
+is_partial: true
+display_field: layout
 fields:
 - type: text
-  name: title
   label: Name
+  name: title
 - type: file
-  label: Thumbnail
   name: thumbnail
+  label: Thumbnail
 - type: text
   label: Layout
   name: layout
-  hidden: true
