@@ -13,8 +13,8 @@ page_sections:
     link_text: Beers
   - link: "/About"
     link_text: About
-  - link: "#"
-    link_text: Team
+  - link: "/find"
+    link_text: Find Us
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
