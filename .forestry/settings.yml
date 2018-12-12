@@ -4,13 +4,6 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: _beer
-  label: Beers
-  create: all
-  match: "*"
-  templates:
-  - beer
 - type: document
   path: FORESTRY-README.md
   label: Welcome - First Steps
@@ -25,6 +18,13 @@ sections:
   match: "*.md"
   exclude: "*README.md"
   new_doc_ext: md
+- type: directory
+  path: _beer
+  label: Beers
+  create: all
+  match: "*"
+  templates:
+  - beer
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
