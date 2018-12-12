@@ -13,3 +13,5 @@ fields:
   label: Layout
   name: layout
   hidden: true
+pages:
+- _beer/kona-wild.md
