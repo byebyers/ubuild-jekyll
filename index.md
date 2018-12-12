@@ -5,6 +5,10 @@ date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
+  logo: "/uploads/2018/12/12/ohmniBigLogo.png"
+  navigation:
+  - link: "/"
+    link_text: Home
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
