@@ -71,6 +71,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/12/12/Webpage-draft-2.jpg"
+  caption: We Make Great Beer!
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
