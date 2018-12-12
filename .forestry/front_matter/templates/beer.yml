@@ -13,3 +13,5 @@ fields:
 - type: text
   label: Layout
   name: layout
+  hidden: true
+  default: beer
