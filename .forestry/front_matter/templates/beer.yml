@@ -1,0 +1,14 @@
+---
+label: Beer
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Name
+  name: title
+- type: file
+  name: thumbnail
+  label: Thumbnail
+- type: text
+  label: Layout
+  name: layout
