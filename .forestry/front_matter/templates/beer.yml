@@ -12,3 +12,5 @@ fields:
 - type: text
   label: Layout
   name: layout
+pages:
+- beers.md
