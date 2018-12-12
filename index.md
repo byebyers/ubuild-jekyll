@@ -11,8 +11,8 @@ page_sections:
     link_text: Home
   - link: "/beers"
     link_text: Beers
-  - link: "#"
-    link_text: Pricing
+  - link: "/About"
+    link_text: About
   - link: "#"
     link_text: Team
   cta:
