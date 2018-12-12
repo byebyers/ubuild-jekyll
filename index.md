@@ -11,6 +11,8 @@ page_sections:
     link_text: Home
   - link: "/beers"
     link_text: Beers
+  - link: "/about"
+    link_text: About
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
