@@ -13,6 +13,8 @@ page_sections:
     link_text: Beers
   - link: "/about"
     link_text: About
+  - link: "/find"
+    link_text: Find Us
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
