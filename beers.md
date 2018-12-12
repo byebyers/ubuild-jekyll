@@ -8,6 +8,5 @@ page_sections:
   logo: "/uploads/2018/12/12/ohmniBigLogo.png"
 - template: hero-banner-w-image
   block: hero-2
-published: false
 
 ---
