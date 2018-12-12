@@ -68,6 +68,9 @@ page_sections:
     Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
     preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li></ol>
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/12/12/Webpage-draft-2.jpg"
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
