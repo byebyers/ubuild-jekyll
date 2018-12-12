@@ -17,13 +17,12 @@ page_sections:
     link_text: Find Us
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: We make great<br><strong>Beer</strong>
+  content: Est 2018
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: "/beers"
+    button_text: Check out our beer!
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
