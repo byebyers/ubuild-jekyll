@@ -8,6 +8,9 @@ page_sections:
   logo: "/uploads/2018/12/12/ohmniBigLogo.png"
 - template: hero-banner-w-image
   block: hero-2
+  background_image: "/uploads/2018/12/12/Webpage-draft-2.jpg"
+  headline: Beers
+  content: Check out what is on tap
 published: false
 
 ---
