@@ -15,18 +15,9 @@ page_sections:
     link_text: About
   - link: "/find"
     link_text: Find Us
-- template: hero-banner-w-image
-  block: hero-2
-  headline: Local Beer<br><strong>Company</strong>
-  content: Est 2018
-  cta:
-    enabled: true
-    url: "/beers"
-    button_text: Check out our beer!
-  image:
-    image: "/uploads/2018/12/12/44d475c44c37f75181f6e7bccc08fe6e.png"
-    alt_text: Product Shot
-  background_image: ''
+- template: text-only-hero-banner
+  block: hero-1
+  heading: Beer Company
 - template: content-feature
   block: feature-1
   media_alignment: Left
