@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#"
-    link_text: Features
+  - link: "/beers"
+    link_text: Beers
   - link: "#"
     link_text: Pricing
   - link: "#"
