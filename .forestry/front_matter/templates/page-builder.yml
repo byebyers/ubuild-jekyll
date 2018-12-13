@@ -36,5 +36,6 @@ fields:
   - 4-column-footer
 pages:
 - test.md
+- test.md
 - index.md
 - beers.md
