@@ -10,6 +10,7 @@ page_sections:
   block: hero-2
 - template: beer
   layout: beer
+  title: test
 thumbnail: ''
 
 ---
